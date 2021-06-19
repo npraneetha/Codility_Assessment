@@ -13,6 +13,8 @@ Need to install few jars and drivers to execute this:
 4. Install Apache-maven 3.6.3
 5. Install Seleniun-webdriver 3.14.59 version
 6. I have installed the chrome driver 
+7. Used Junit annotations
+8. Used BDD Cucumber 
 
 I have created feature file using the below acceptance criteria:
 
